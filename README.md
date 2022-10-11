@@ -9,3 +9,13 @@ You can find instructions of this system from  https://peatutor.com/git_tutor/gi
 ## GitHub project
 
 You can use the Project-section of your GitHub-repo as a Kanban board.
+
+## Timetable
+
+<ul>
+<li>Starting week in Oulu 10.10.-14.10</li>
+<li>17.10.-21.10 OAMK students are studying other subjects </li>
+<li>24.10.-28.10 Holiday week in OAMK  </li>
+<li>31.10.-9.12 Working hard in OAMK </li>
+<li>12.12.-16.12 Ending week in Darmstadt</li>
+</ul>
